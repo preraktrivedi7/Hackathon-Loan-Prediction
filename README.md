@@ -1,5 +1,5 @@
 # Hackathon-Loan-Prediction
- Loan Prediction - Various Statistical Approach
+ Loan Prediction - Hands-on application of various Statistical Approaches.
 
 # Hackathon Project: Loan Prediction from Analytics Vidhya.
 # Loan-Prediction-Dataset
